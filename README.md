@@ -11,16 +11,15 @@ My current goal is to grow as a Software Development Engineer and build reliable
 ## 🛠️ Technical Skills
 
 **Programming Languages**
-- Java (Advanced)
+- Java 
 - JavaScript
-- SQL
 
 **Frontend Development**
 - HTML5
 - CSS3
 - JavaScript
 - React.js
-
+- 
 **Backend Development**
 - Node.js
 - Express.js
