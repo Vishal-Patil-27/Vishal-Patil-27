@@ -19,7 +19,7 @@ My current goal is to grow as a Software Development Engineer and build reliable
 - CSS3
 - JavaScript
 - React.js
-- 
+  
 **Backend Development**
 - Node.js
 - Express.js
