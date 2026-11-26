@@ -1,7 +1,6 @@
 # Hi, I'm Vishal Patil 👋
 
-### Aspiring Software Development Engineer (SDE) | Java Developer | 
-Full-Stack Developer
+### Aspiring Software Development Engineer (SDE) | Java Developer | Full-Stack Developer
 
 I'm a BCA graduate interested in software engineering, problem-solving, and building practical applications. I enjoy learning new technologies and improving my programming skills through hands-on projects.
 
