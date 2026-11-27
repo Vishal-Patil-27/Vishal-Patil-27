@@ -76,8 +76,7 @@ Interested in software engineering opportunities at technology companies such as
 ## 📫 Connect With Me
 
 - GitHub: [Vishal-Patil-27](https://github.com/Vishal-Patil-27)
-- LinkedIn: To be added
-- Portfolio: Coming soon
+- LinkedIn: [Vishal-Patil-27]([https://github.com/Vishal-Patil-27](https://www.linkedin.com/in/vishal-patil-43764b452/))
 
 ---
 
